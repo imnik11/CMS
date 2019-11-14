@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CMS.dir/main.cpp.o CMakeFiles/CMS.dir/SHA256.cpp.o CMakeFiles/CMS.dir/Block.cpp.o CMakeFiles/CMS.dir/Blockchain.cpp.o  -o CMS 

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/CMS/Block.cpp
+sstream
+-
+Block.h
+/home/user/CMS/Block.h
+SHA256_H.h
+/home/user/CMS/SHA256_H.h
+
+/home/user/CMS/Block.h
+cstdint
+-
+iostream
+-
+
+/home/user/CMS/SHA256_H.h
+string
+-
+
